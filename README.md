@@ -1,0 +1,2 @@
+# 3D-Unity-Prime
+This was my attempt at replicating what I've seen of Metroid Prime, using assets from the Models Resource. I made this in 2020 or 2021 as a project for something in class. All things considered, it turned out decently. Unfortunately, time has taken its toll and some of the files have disappeared. There used to be a version with controller compatibility, but only the one with exclusively keyboard compatibility remains. Additionally, one of the files is too large to upload to GitHub, so it is not present. It might be broken as a result.

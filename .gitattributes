@@ -1,0 +1,2 @@
+*.resource filter=lfs diff=lfs merge=lfs -text
+3D-Unity-Prime.zip filter=lfs diff=lfs merge=lfs -text
